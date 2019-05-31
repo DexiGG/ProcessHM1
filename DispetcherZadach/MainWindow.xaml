@@ -1,0 +1,18 @@
+﻿<Window x:Class="DispetcherZadach.MainWindow"
+         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DispetcherZadach"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <materialDesign:Card Background="#FF0080FF" Foreground="Yellow" Focusable="True" VerticalAlignment="Stretch" Margin="0,0,0,66">
+            <DataGrid Name="MainDataGrid"/>
+        </materialDesign:Card>
+        <materialDesign:Card Background="#FF0080FF" Foreground="Yellow" Focusable="True" VerticalAlignment="Stretch" Margin="625,372,30,10">
+            <Button Name="ButtonDataGrid" Content="Снять задачу" Background="#FF0253FF" Margin="0,0,0,-9" Click="ButtonDataGrid_Click"/>
+        </materialDesign:Card>
+    </Grid>
+</Window>

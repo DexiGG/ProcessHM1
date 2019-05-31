@@ -1,0 +1,12 @@
+c:\users\джабашевн.corp\source\repos\DispetcherZadach\DispetcherModels\bin\Debug\DispetcherModels.dll
+c:\users\джабашевн.corp\source\repos\DispetcherZadach\DispetcherModels\bin\Debug\DispetcherModels.pdb
+c:\users\джабашевн.corp\source\repos\DispetcherZadach\DispetcherModels\obj\Debug\DispetcherModels.csprojAssemblyReference.cache
+c:\users\джабашевн.corp\source\repos\DispetcherZadach\DispetcherModels\obj\Debug\DispetcherModels.csproj.CoreCompileInputs.cache
+c:\users\джабашевн.corp\source\repos\DispetcherZadach\DispetcherModels\obj\Debug\DispetcherModels.dll
+c:\users\джабашевн.corp\source\repos\DispetcherZadach\DispetcherModels\obj\Debug\DispetcherModels.pdb
+c:\users\джабашевн.corp\source\repos\DispetcherZadach\DispetcherModels\bin\Debug\MaterialDesignColors.dll
+c:\users\джабашевн.corp\source\repos\DispetcherZadach\DispetcherModels\bin\Debug\MaterialDesignThemes.Wpf.dll
+c:\users\джабашевн.corp\source\repos\DispetcherZadach\DispetcherModels\bin\Debug\MaterialDesignColors.pdb
+c:\users\джабашевн.corp\source\repos\DispetcherZadach\DispetcherModels\bin\Debug\MaterialDesignThemes.Wpf.pdb
+c:\users\джабашевн.corp\source\repos\DispetcherZadach\DispetcherModels\bin\Debug\MaterialDesignThemes.Wpf.xml
+c:\users\джабашевн.corp\source\repos\DispetcherZadach\DispetcherModels\obj\Debug\DispetcherModels.csproj.CopyComplete

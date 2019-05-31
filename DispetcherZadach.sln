@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DispetcherZadach", "DispetcherZadach\DispetcherZadach.csproj", "{961E6065-8D05-4DDE-9657-F3CC97D8CC45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DispetcherModels", "DispetcherModels\DispetcherModels.csproj", "{9E493FFC-7158-4B61-913F-051581A7CA7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{961E6065-8D05-4DDE-9657-F3CC97D8CC45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{961E6065-8D05-4DDE-9657-F3CC97D8CC45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{961E6065-8D05-4DDE-9657-F3CC97D8CC45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{961E6065-8D05-4DDE-9657-F3CC97D8CC45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E493FFC-7158-4B61-913F-051581A7CA7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E493FFC-7158-4B61-913F-051581A7CA7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E493FFC-7158-4B61-913F-051581A7CA7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E493FFC-7158-4B61-913F-051581A7CA7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F616625-12B5-47B7-BD1E-3B66E15779C5}
+	EndGlobalSection
+EndGlobal
